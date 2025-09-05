@@ -291,6 +291,7 @@
         <!-- pax-exam does not work on latest Java12 EA 22 build -->
         <skipOsgiTestsuite>true</skipOsgiTestsuite>
         <revapi.skip>true</revapi.skip>
+		<sonar.organization>spyd3r98</sonar.organization>
       </properties>
     </profile>
     <profile>
