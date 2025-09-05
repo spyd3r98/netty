@@ -750,7 +750,7 @@
     <skipShadingTestsuite>false</skipShadingTestsuite>
     <skipDeploy>false</skipDeploy>
     <multiReleaseJar>true</multiReleaseJar>
-	<sonar.organization>spyd3r98</sonar.organization>
+    <sonar.organization>spyd3r98</sonar.organization>
     <javaModuleName />
   </properties>
 
